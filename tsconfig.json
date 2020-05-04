@@ -12,7 +12,7 @@
             "scripthost"
         ],
         "declaration": true,
-        "outDir": "./dist",
+        "outDir": "./",
         "rootDir": "src",
         "strict": true,
         "noImplicitAny": true,

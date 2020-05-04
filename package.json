@@ -2,8 +2,7 @@
   "name": "react-line-awesome-svg",
   "version": "1.0.5",
   "description": "Use line-awesome as react svg component",
-  "main": "dist/index.js",
-  "types": "@types/index.d.ts",
+  "main": "index.js",
   "prettier": {
     "trailingComma": "es5",
     "tabWidth": 4,
@@ -12,10 +11,9 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "npm run build:clean && npm run build:tsc && npm run build:static",
-    "build:clean": "rimraf ./dist ",
+    "build": "npm run build:clean && npm run build:tsc",
+    "build:clean": "rimraf ./components && rimraf ./icons ",
     "build:tsc": "tsc",
-    "build:static": "rm -rf ./dist/__tests__",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.tsx\"",
     "lint": "tslint -p tsconfig.json",
     "prepare": "npm run build",
@@ -53,8 +51,5 @@
     "tslint": "^6.1.2",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.8.3"
-  },
-  "files": [
-    "dist"
-  ]
+  }
 }
