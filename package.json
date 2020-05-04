@@ -1,5 +1,5 @@
 {
-  "name": "react-line-awesome",
+  "name": "react-line-awesome-svg",
   "version": "1.0.2",
   "description": "Use line-awesome as react svg component",
   "main": "dist/index.js",

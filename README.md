@@ -1,6 +1,10 @@
-# react-line-awesome
+# react-svg-line-awesome
 
 This project is about create React Svg Components using Line Awesome assets.
+
+- [Line awesome](https://icons8.com/line-awesome)
+
+[See the list of all icons available](https://icons8.com/line-awesome)
 
 ## How to build?
 
