@@ -11,4 +11,4 @@ export const LineAwesome: FunctionComponent<LineAwesomeProps> = ({
   ...props
 }) => <IconElement {...props} />
 
-export default LineIcon
+export default LineAwesome

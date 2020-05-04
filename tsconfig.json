@@ -14,21 +14,16 @@
         "declaration": true,
         "outDir": "./dist",
         "rootDir": "src",
-        "baseUrl": "./",
         "strict": true,
         "noImplicitAny": true,
-        "esModuleInterop": true,
-        "paths": {
-            "~*": [
-                "./src"
-            ]
-        }
+        "esModuleInterop": true
     },
     "include": [
         "src",
         "types"
     ],
     "exclude": [
-        "node_modules"
+        "node_modules",
+        "**/*.spec.tsx"
     ]
 }

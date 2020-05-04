@@ -1,6 +1,7 @@
-import LineAwesome from '~line-awesome'
+import React from 'react'
 import { create } from 'react-test-renderer'
-import SvgThumbsUp from '~icons/ThumbsUp'
+import { LineAwesome } from '../components/line-awesome'
+import SvgThumbsUp from '../icons/ThumbsUp'
 
 describe('LineAwesome component', () => {
     test('Matches the snapshot"', () => {

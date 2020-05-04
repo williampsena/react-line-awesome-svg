@@ -1,8 +1,22 @@
 {
-    "extends": ["tslint:recommended", "tslint-config-prettier"],
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-prettier"
+    ],
     "rules": {
-        "interface-name": [true, "never-prefix"],
-        "curly": [true, "ignore-same-line"],
-        "variable-name": [true, "check-format", "allow-leading-underscore"]
+        "interface-name": [
+            true,
+            "never-prefix"
+        ],
+        "curly": [
+            true,
+            "ignore-same-line"
+        ],
+        "variable-name": [
+            true,
+            "allow-pascal-case",
+            "allow-leading-underscore",
+            "allow-trailing-underscore"
+        ]
     }
 }
