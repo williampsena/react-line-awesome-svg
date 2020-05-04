@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgUnlinkSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgUnlinkSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgUnlinkSolid;

@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgCarrotSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgCarrotSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgCarrotSolid;

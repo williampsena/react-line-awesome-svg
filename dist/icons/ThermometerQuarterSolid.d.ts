@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgThermometerQuarterSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgThermometerQuarterSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgThermometerQuarterSolid;

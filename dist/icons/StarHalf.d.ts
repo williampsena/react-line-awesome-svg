@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgStarHalf(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgStarHalf(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgStarHalf;

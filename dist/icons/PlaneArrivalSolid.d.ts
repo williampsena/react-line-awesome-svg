@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgPlaneArrivalSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgPlaneArrivalSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgPlaneArrivalSolid;

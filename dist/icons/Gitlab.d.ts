@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgGitlab(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgGitlab(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgGitlab;

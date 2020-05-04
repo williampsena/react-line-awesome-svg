@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgAddressBook(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgAddressBook(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgAddressBook;

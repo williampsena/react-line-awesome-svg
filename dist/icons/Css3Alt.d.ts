@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgCss3Alt(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgCss3Alt(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgCss3Alt;

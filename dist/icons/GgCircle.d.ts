@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgGgCircle(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgGgCircle(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgGgCircle;

@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgDotCircleSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgDotCircleSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgDotCircleSolid;

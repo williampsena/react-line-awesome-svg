@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgRocketSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgRocketSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgRocketSolid;

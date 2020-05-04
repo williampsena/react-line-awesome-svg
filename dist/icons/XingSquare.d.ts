@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgXingSquare(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgXingSquare(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgXingSquare;

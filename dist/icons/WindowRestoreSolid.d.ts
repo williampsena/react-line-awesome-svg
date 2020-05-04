@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgWindowRestoreSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgWindowRestoreSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgWindowRestoreSolid;

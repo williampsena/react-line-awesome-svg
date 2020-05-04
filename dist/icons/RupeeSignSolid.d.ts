@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgRupeeSignSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgRupeeSignSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgRupeeSignSolid;

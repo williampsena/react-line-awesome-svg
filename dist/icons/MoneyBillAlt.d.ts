@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgMoneyBillAlt(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgMoneyBillAlt(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgMoneyBillAlt;

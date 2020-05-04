@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgChildSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgChildSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgChildSolid;

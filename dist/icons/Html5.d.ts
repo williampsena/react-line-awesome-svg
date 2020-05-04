@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgHtml5(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgHtml5(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgHtml5;

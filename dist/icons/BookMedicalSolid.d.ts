@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgBookMedicalSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgBookMedicalSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgBookMedicalSolid;

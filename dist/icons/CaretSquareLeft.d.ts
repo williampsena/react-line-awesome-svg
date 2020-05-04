@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgCaretSquareLeft(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgCaretSquareLeft(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgCaretSquareLeft;

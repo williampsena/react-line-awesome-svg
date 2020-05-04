@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgSmile(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgSmile(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgSmile;

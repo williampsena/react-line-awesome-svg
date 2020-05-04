@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgTractorSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgTractorSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgTractorSolid;

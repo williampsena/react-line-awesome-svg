@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgFileContractSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgFileContractSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFileContractSolid;

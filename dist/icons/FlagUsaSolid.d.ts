@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgFlagUsaSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgFlagUsaSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFlagUsaSolid;

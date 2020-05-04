@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgFirstOrderAlt(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgFirstOrderAlt(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFirstOrderAlt;

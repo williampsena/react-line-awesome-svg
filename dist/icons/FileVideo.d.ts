@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgFileVideo(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgFileVideo(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFileVideo;

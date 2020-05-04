@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgLongArrowAltRightSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgLongArrowAltRightSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgLongArrowAltRightSolid;

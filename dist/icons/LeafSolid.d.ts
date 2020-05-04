@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgLeafSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgLeafSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgLeafSolid;

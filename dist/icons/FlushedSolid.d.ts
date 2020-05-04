@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgFlushedSolid(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgFlushedSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFlushedSolid;

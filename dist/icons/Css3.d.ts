@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgCss3(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgCss3(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgCss3;

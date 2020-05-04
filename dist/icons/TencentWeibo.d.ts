@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgTencentWeibo(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgTencentWeibo(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgTencentWeibo;

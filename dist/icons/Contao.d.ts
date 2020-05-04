@@ -1,3 +1,3 @@
-/// <reference types="react" />
-declare function SvgContao(props: any): JSX.Element;
+import * as React from 'react';
+declare function SvgContao(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgContao;
