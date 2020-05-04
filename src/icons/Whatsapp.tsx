@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWhatsapp(props) {
+function SvgWhatsapp(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 32 32" width="1em" height="1em" {...props}>
       <path
