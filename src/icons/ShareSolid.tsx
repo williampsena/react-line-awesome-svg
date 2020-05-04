@@ -1,11 +1,13 @@
 import * as React from 'react'
 
-function SvgShareSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>) {
-  return (
-    <svg viewBox="0 0 32 32" width="1em" height="1em" {...props}>
-      <path d="M19.719 5.281L18.28 6.72 24.563 13H11c-3.855 0-7 3.145-7 7s3.145 7 7 7v-2c-2.773 0-5-2.227-5-5s2.227-5 5-5h13.563l-6.282 6.281 1.438 1.438 8-8 .687-.719-.687-.719z" />
-    </svg>
-  )
+function SvgShareSolid(
+    props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
+) {
+    return (
+        <svg viewBox="0 0 32 32" width="1em" height="1em" {...props}>
+            <path d="M19.719 5.281L18.28 6.72 24.563 13H11c-3.855 0-7 3.145-7 7s3.145 7 7 7v-2c-2.773 0-5-2.227-5-5s2.227-5 5-5h13.563l-6.282 6.281 1.438 1.438 8-8 .687-.719-.687-.719z" />
+        </svg>
+    )
 }
 
 export default SvgShareSolid

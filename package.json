@@ -16,7 +16,7 @@
     "build:clean": "rimraf ./dist ",
     "build:tsc": "tsc",
     "build:static": "rm -rf ./dist/__tests__",
-    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.tsx\"",
     "lint": "tslint -p tsconfig.json",
     "prepare": "npm run build",
     "prepublishOnly": "np --no-yarn --no-publish --no-cleanup",
