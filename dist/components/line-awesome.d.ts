@@ -4,4 +4,4 @@ export interface LineAwesomeProps extends SvgProps {
     icon: FunctionComponent;
 }
 export declare const LineAwesome: FunctionComponent<LineAwesomeProps>;
-export default LineIcon;
+export default LineAwesome;
