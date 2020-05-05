@@ -1,0 +1,6 @@
+import * as React from 'react';
+function SvgChartBarSolid(props) {
+    return (React.createElement("svg", Object.assign({ viewBox: "0 0 32 32", width: "1em", height: "1em" }, props),
+        React.createElement("path", { d: "M21 4v24h8V4zm2 2h4v20h-4zM3 10v18h8V10zm2 2h4v14H5zm7 4v12h8V16zm2 2h4v8h-4z" })));
+}
+export default SvgChartBarSolid;
