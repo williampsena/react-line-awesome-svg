@@ -13,12 +13,21 @@ npx @svgr/cli --icon  ./node_modules/line-awesome/svg/*.svg --out-dir ./src/icon
 find ./src/icons -name "*.js" -exec sh -c 'mv "$0" "${0%.js}.tsx"' {} \;
 sed -i 's/[(]props[)]/\(props\: JSX\.IntrinsicAttributes \& React\.SVGProps\<SVGSVGElement\>\)/g' *
 ```
+## How to install?
+ 
+```
+# npm
+npm install react-line-awesome-svg --save
+
+# yarn
+yarn add react-line-awesome-svg
+```
 
 ## How to use?
 
 ```tsx
-import { LineAwesome } from 'line-awesome'
-import SvgThumbsUp from 'line-awesome/icons/ThumbsUp'
+import { LineAwesome } from 'react-line-awesome-svg'
+import SvgThumbsUp from 'react-line-awesome-svg/icons/ThumbsUp'
 
 <LineAwesome
     icon={SvgThumbsUp}
