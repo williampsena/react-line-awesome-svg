@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHatCowboySideSolid(
+export function SvgHatCowboySideSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

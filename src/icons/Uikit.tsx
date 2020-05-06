@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUikit(
+export function SvgUikit(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

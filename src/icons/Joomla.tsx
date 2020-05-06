@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJoomla(
+export function SvgJoomla(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

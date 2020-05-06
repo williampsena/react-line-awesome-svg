@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBellSolid(
+export function SvgBellSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

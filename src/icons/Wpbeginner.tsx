@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWpbeginner(
+export function SvgWpbeginner(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

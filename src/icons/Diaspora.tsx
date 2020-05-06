@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDiaspora(
+export function SvgDiaspora(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

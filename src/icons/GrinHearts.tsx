@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinHearts(
+export function SvgGrinHearts(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

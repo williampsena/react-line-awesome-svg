@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSnowboardingSolid(
+export function SvgSnowboardingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

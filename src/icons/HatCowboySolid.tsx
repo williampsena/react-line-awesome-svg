@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHatCowboySolid(
+export function SvgHatCowboySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

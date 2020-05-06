@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDraftingCompassSolid(
+export function SvgDraftingCompassSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNeuterSolid(
+export function SvgNeuterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

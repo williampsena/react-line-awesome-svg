@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSortNumericUpSolid(
+export function SvgSortNumericUpSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

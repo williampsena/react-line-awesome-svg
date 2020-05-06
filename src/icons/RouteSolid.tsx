@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRouteSolid(
+export function SvgRouteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

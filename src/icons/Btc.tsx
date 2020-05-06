@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBtc(
+export function SvgBtc(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

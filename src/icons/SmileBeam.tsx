@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSmileBeam(
+export function SvgSmileBeam(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

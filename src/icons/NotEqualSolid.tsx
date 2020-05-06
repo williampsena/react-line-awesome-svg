@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNotEqualSolid(
+export function SvgNotEqualSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

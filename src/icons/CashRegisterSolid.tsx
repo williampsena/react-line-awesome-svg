@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCashRegisterSolid(
+export function SvgCashRegisterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

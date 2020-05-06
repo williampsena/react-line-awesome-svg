@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTruckPickupSolid(
+export function SvgTruckPickupSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

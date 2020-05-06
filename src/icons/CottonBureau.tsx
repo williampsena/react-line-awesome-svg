@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCottonBureau(
+export function SvgCottonBureau(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

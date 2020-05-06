@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEtsy(
+export function SvgEtsy(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

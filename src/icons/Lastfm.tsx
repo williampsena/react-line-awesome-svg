@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLastfm(
+export function SvgLastfm(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

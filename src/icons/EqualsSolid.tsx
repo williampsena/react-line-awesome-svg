@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEqualsSolid(
+export function SvgEqualsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

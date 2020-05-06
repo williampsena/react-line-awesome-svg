@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlayCircle(
+export function SvgPlayCircle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

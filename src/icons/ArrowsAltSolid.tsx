@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgArrowsAltSolid(
+export function SvgArrowsAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWordpress(
+export function SvgWordpress(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

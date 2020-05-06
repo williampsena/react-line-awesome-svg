@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChrome(
+export function SvgChrome(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

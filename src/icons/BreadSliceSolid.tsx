@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBreadSliceSolid(
+export function SvgBreadSliceSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

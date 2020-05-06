@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMouseSolid(
+export function SvgMouseSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

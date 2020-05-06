@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJediOrder(
+export function SvgJediOrder(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

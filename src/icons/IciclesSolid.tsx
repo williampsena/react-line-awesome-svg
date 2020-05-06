@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIciclesSolid(
+export function SvgIciclesSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

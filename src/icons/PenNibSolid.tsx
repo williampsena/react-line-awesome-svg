@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPenNibSolid(
+export function SvgPenNibSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

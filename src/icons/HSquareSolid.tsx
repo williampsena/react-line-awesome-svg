@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHSquareSolid(
+export function SvgHSquareSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

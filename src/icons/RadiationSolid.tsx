@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRadiationSolid(
+export function SvgRadiationSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

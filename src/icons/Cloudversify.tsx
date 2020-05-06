@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloudversify(
+export function SvgCloudversify(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

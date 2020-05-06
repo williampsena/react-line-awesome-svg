@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEbay(
+export function SvgEbay(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

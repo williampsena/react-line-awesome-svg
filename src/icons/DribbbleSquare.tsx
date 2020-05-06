@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDribbbleSquare(
+export function SvgDribbbleSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

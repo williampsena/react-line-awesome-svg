@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAmilia(
+export function SvgAmilia(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

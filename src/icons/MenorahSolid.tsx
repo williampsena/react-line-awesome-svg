@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMenorahSolid(
+export function SvgMenorahSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

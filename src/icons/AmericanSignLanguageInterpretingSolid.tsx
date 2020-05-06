@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAmericanSignLanguageInterpretingSolid(
+export function SvgAmericanSignLanguageInterpretingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

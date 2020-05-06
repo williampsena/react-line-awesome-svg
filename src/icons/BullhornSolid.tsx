@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBullhornSolid(
+export function SvgBullhornSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

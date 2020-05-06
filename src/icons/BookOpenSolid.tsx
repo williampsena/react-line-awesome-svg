@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBookOpenSolid(
+export function SvgBookOpenSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

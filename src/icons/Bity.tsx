@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBity(
+export function SvgBity(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

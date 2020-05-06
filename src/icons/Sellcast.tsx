@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSellcast(
+export function SvgSellcast(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

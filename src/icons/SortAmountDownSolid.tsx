@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSortAmountDownSolid(
+export function SvgSortAmountDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

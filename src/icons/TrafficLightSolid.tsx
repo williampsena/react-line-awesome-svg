@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrafficLightSolid(
+export function SvgTrafficLightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

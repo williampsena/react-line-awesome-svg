@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPizzaSliceSolid(
+export function SvgPizzaSliceSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

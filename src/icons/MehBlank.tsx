@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMehBlank(
+export function SvgMehBlank(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

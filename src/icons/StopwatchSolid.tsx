@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStopwatchSolid(
+export function SvgStopwatchSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

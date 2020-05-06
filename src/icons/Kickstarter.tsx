@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKickstarter(
+export function SvgKickstarter(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

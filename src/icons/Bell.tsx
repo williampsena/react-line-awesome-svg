@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBell(
+export function SvgBell(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

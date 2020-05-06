@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGooglePlay(
+export function SvgGooglePlay(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHubspot(
+export function SvgHubspot(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

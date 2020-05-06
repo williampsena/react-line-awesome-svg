@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAnchorSolid(
+export function SvgAnchorSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

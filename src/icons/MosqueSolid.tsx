@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMosqueSolid(
+export function SvgMosqueSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

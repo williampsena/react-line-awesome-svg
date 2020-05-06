@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTerminalSolid(
+export function SvgTerminalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

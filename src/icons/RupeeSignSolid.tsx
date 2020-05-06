@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRupeeSignSolid(
+export function SvgRupeeSignSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

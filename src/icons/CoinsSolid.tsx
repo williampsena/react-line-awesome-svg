@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCoinsSolid(
+export function SvgCoinsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

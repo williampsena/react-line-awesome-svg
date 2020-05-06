@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindowMaximizeSolid(
+export function SvgWindowMaximizeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

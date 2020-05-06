@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOldRepublic(
+export function SvgOldRepublic(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

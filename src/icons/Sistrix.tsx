@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSistrix(
+export function SvgSistrix(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

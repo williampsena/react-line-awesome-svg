@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEllipsisVSolid(
+export function SvgEllipsisVSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

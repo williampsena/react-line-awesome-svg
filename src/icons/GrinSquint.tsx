@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinSquint(
+export function SvgGrinSquint(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCompass(
+export function SvgCompass(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

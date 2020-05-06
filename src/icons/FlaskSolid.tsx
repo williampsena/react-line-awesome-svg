@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFlaskSolid(
+export function SvgFlaskSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

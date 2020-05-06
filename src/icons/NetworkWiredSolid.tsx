@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNetworkWiredSolid(
+export function SvgNetworkWiredSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

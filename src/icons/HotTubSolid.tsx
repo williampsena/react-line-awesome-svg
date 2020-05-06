@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHotTubSolid(
+export function SvgHotTubSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

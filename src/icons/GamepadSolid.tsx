@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGamepadSolid(
+export function SvgGamepadSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

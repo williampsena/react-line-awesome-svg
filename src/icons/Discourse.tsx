@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDiscourse(
+export function SvgDiscourse(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

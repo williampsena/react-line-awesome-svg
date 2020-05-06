@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMailBulkSolid(
+export function SvgMailBulkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

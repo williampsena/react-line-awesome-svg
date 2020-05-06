@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMastodon(
+export function SvgMastodon(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

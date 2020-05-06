@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEdge(
+export function SvgEdge(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

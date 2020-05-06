@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgItchIo(
+export function SvgItchIo(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

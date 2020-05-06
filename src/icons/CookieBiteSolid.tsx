@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCookieBiteSolid(
+export function SvgCookieBiteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

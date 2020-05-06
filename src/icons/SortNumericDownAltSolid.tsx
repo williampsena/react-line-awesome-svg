@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSortNumericDownAltSolid(
+export function SvgSortNumericDownAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

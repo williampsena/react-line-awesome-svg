@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGulp(
+export function SvgGulp(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

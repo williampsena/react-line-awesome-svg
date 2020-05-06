@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgInfinitySolid(
+export function SvgInfinitySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

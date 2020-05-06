@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRecycleSolid(
+export function SvgRecycleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

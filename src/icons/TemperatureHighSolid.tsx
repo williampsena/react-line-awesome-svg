@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTemperatureHighSolid(
+export function SvgTemperatureHighSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

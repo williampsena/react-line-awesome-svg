@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEmpire(
+export function SvgEmpire(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

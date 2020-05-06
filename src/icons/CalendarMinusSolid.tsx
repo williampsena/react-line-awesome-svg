@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCalendarMinusSolid(
+export function SvgCalendarMinusSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

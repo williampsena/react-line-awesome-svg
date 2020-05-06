@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMixcloud(
+export function SvgMixcloud(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

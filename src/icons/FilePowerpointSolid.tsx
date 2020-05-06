@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFilePowerpointSolid(
+export function SvgFilePowerpointSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

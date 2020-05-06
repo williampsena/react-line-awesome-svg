@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOutdentSolid(
+export function SvgOutdentSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVolumeMuteSolid(
+export function SvgVolumeMuteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

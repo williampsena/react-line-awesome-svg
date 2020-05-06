@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUssunnah(
+export function SvgUssunnah(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

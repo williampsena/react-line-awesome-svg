@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWpforms(
+export function SvgWpforms(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

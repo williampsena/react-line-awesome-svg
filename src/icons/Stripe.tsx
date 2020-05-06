@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStripe(
+export function SvgStripe(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSquareRootAltSolid(
+export function SvgSquareRootAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

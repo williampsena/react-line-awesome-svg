@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAngleDoubleRightSolid(
+export function SvgAngleDoubleRightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

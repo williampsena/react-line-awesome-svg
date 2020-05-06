@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTripadvisor(
+export function SvgTripadvisor(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

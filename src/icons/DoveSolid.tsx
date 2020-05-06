@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDoveSolid(
+export function SvgDoveSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

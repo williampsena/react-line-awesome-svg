@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStampSolid(
+export function SvgStampSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

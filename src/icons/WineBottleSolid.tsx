@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWineBottleSolid(
+export function SvgWineBottleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

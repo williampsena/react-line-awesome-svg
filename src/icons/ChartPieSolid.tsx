@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChartPieSolid(
+export function SvgChartPieSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

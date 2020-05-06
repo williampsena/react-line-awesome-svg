@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBitbucket(
+export function SvgBitbucket(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

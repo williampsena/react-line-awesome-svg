@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPaperclipSolid(
+export function SvgPaperclipSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

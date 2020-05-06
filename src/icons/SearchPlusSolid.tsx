@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSearchPlusSolid(
+export function SvgSearchPlusSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

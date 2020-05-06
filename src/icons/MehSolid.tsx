@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMehSolid(
+export function SvgMehSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

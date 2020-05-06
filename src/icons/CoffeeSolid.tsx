@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCoffeeSolid(
+export function SvgCoffeeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

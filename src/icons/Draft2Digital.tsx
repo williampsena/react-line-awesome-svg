@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDraft2Digital(
+export function SvgDraft2Digital(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

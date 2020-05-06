@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBullseyeSolid(
+export function SvgBullseyeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

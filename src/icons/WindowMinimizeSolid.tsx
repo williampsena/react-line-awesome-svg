@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindowMinimizeSolid(
+export function SvgWindowMinimizeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

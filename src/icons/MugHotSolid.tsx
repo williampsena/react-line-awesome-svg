@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMugHotSolid(
+export function SvgMugHotSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

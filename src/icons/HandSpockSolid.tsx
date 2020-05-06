@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandSpockSolid(
+export function SvgHandSpockSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

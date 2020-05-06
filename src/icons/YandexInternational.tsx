@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYandexInternational(
+export function SvgYandexInternational(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

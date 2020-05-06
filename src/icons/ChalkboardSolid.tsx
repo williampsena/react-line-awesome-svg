@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChalkboardSolid(
+export function SvgChalkboardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

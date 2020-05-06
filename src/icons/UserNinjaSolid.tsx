@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserNinjaSolid(
+export function SvgUserNinjaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

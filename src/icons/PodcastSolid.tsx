@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPodcastSolid(
+export function SvgPodcastSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

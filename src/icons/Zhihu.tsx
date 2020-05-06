@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgZhihu(
+export function SvgZhihu(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

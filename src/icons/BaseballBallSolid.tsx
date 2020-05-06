@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBaseballBallSolid(
+export function SvgBaseballBallSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

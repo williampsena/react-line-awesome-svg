@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPaintBrushSolid(
+export function SvgPaintBrushSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

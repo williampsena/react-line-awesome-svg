@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFirstdraft(
+export function SvgFirstdraft(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

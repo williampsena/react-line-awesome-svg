@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBusinessTimeSolid(
+export function SvgBusinessTimeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

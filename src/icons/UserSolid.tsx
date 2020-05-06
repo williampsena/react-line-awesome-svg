@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserSolid(
+export function SvgUserSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

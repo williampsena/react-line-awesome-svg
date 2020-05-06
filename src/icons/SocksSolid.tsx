@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSocksSolid(
+export function SvgSocksSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

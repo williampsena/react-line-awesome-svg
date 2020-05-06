@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHippoSolid(
+export function SvgHippoSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

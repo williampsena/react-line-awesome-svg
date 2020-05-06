@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFirstOrder(
+export function SvgFirstOrder(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

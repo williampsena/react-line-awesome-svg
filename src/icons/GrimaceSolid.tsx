@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrimaceSolid(
+export function SvgGrimaceSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

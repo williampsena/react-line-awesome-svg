@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLaptopCodeSolid(
+export function SvgLaptopCodeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

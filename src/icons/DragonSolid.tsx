@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDragonSolid(
+export function SvgDragonSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

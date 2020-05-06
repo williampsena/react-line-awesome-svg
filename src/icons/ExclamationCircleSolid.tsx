@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgExclamationCircleSolid(
+export function SvgExclamationCircleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

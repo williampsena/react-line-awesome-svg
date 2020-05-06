@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVoicemailSolid(
+export function SvgVoicemailSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

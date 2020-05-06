@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSimCardSolid(
+export function SvgSimCardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

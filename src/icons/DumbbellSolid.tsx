@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDumbbellSolid(
+export function SvgDumbbellSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

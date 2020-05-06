@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQuestionCircle(
+export function SvgQuestionCircle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

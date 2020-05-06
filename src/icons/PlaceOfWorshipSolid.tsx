@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlaceOfWorshipSolid(
+export function SvgPlaceOfWorshipSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

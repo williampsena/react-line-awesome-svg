@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgExclamationTriangleSolid(
+export function SvgExclamationTriangleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

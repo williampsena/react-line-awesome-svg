@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKiwiBirdSolid(
+export function SvgKiwiBirdSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

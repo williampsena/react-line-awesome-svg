@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIntercom(
+export function SvgIntercom(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

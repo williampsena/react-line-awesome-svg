@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBibleSolid(
+export function SvgBibleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMaxcdn(
+export function SvgMaxcdn(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

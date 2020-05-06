@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKaabaSolid(
+export function SvgKaabaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

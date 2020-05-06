@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgExpeditedssl(
+export function SvgExpeditedssl(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCrutchSolid(
+export function SvgCrutchSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

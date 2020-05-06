@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRunningSolid(
+export function SvgRunningSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFilePdfSolid(
+export function SvgFilePdfSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

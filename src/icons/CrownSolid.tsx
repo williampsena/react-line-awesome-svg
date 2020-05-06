@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCrownSolid(
+export function SvgCrownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

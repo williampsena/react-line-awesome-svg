@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBuromobelexperte(
+export function SvgBuromobelexperte(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

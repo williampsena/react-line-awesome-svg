@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHourglass(
+export function SvgHourglass(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

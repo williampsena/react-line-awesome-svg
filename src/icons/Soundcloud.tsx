@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSoundcloud(
+export function SvgSoundcloud(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

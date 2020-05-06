@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAdobe(
+export function SvgAdobe(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

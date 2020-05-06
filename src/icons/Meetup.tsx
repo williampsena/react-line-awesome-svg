@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMeetup(
+export function SvgMeetup(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

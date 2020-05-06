@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRulerHorizontalSolid(
+export function SvgRulerHorizontalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

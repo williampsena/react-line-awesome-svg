@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFrown(
+export function SvgFrown(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStethoscopeSolid(
+export function SvgStethoscopeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

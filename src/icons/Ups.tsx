@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUps(
+export function SvgUps(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

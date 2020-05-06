@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTorahSolid(
+export function SvgTorahSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

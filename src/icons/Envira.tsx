@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEnvira(
+export function SvgEnvira(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

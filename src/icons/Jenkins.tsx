@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJenkins(
+export function SvgJenkins(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

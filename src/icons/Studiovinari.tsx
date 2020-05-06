@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStudiovinari(
+export function SvgStudiovinari(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

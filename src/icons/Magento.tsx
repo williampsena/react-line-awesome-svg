@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMagento(
+export function SvgMagento(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSurpriseSolid(
+export function SvgSurpriseSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

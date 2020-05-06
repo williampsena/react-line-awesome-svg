@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgApper(
+export function SvgApper(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

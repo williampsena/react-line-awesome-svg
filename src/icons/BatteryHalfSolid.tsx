@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBatteryHalfSolid(
+export function SvgBatteryHalfSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

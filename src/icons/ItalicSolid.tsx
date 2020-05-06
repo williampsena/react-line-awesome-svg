@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgItalicSolid(
+export function SvgItalicSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

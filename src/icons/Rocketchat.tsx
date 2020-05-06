@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRocketchat(
+export function SvgRocketchat(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

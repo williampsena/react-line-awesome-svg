@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhoneSquareSolid(
+export function SvgPhoneSquareSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindowClose(
+export function SvgWindowClose(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

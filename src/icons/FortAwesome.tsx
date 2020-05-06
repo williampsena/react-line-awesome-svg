@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFortAwesome(
+export function SvgFortAwesome(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSnowflakeSolid(
+export function SvgSnowflakeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

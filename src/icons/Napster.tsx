@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNapster(
+export function SvgNapster(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

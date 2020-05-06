@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAngry(
+export function SvgAngry(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

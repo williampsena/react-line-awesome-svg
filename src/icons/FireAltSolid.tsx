@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFireAltSolid(
+export function SvgFireAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFreebsd(
+export function SvgFreebsd(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

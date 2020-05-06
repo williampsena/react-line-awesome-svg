@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCss3Alt(
+export function SvgCss3Alt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

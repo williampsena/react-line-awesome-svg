@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHanukiahSolid(
+export function SvgHanukiahSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

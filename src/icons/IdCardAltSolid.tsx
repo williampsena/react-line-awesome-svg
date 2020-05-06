@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIdCardAltSolid(
+export function SvgIdCardAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

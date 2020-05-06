@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBirthdayCakeSolid(
+export function SvgBirthdayCakeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

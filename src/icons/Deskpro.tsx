@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDeskpro(
+export function SvgDeskpro(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

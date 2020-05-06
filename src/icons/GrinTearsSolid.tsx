@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinTearsSolid(
+export function SvgGrinTearsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

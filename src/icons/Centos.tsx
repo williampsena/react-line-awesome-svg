@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCentos(
+export function SvgCentos(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

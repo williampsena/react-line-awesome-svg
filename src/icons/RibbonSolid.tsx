@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRibbonSolid(
+export function SvgRibbonSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

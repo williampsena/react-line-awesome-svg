@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHooli(
+export function SvgHooli(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

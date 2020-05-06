@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQuranSolid(
+export function SvgQuranSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

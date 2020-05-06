@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrophySolid(
+export function SvgTrophySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

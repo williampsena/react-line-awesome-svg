@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinStarsSolid(
+export function SvgGrinStarsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

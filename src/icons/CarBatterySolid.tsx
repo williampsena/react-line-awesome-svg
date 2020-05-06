@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCarBatterySolid(
+export function SvgCarBatterySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

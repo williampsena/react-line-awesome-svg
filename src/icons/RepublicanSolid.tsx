@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRepublicanSolid(
+export function SvgRepublicanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

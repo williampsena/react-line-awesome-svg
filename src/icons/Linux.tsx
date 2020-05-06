@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLinux(
+export function SvgLinux(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

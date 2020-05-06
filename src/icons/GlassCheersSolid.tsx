@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGlassCheersSolid(
+export function SvgGlassCheersSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgClock(
+export function SvgClock(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

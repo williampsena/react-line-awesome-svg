@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYahoo(
+export function SvgYahoo(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

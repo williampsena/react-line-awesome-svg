@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPaintRollerSolid(
+export function SvgPaintRollerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

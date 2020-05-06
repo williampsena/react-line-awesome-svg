@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBathSolid(
+export function SvgBathSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

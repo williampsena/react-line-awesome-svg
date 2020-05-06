@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLongArrowAltRightSolid(
+export function SvgLongArrowAltRightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

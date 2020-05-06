@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMicrophoneAltSolid(
+export function SvgMicrophoneAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

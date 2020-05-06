@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGratipay(
+export function SvgGratipay(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

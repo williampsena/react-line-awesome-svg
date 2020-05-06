@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAnkhSolid(
+export function SvgAnkhSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

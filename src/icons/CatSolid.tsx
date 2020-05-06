@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCatSolid(
+export function SvgCatSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

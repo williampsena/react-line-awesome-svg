@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWolfPackBattalion(
+export function SvgWolfPackBattalion(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

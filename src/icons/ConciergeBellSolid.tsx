@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgConciergeBellSolid(
+export function SvgConciergeBellSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

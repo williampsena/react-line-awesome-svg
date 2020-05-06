@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStopSolid(
+export function SvgStopSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

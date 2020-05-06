@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFishSolid(
+export function SvgFishSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

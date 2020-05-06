@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFillSolid(
+export function SvgFillSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

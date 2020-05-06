@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBookmarkSolid(
+export function SvgBookmarkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

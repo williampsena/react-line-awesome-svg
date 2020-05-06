@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHdd(
+export function SvgHdd(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

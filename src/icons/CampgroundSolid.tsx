@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCampgroundSolid(
+export function SvgCampgroundSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

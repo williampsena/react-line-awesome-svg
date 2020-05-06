@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileAudioSolid(
+export function SvgFileAudioSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

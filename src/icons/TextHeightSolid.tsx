@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTextHeightSolid(
+export function SvgTextHeightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

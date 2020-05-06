@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSeedlingSolid(
+export function SvgSeedlingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

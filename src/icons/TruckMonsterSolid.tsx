@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTruckMonsterSolid(
+export function SvgTruckMonsterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

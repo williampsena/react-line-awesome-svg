@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCalendarSolid(
+export function SvgCalendarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

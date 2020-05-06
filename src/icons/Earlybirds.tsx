@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEarlybirds(
+export function SvgEarlybirds(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

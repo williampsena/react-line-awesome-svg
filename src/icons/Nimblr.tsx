@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNimblr(
+export function SvgNimblr(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

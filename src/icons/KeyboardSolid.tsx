@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKeyboardSolid(
+export function SvgKeyboardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

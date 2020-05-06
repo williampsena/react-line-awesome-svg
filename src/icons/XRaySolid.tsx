@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgXRaySolid(
+export function SvgXRaySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHelicopterSolid(
+export function SvgHelicopterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMercurySolid(
+export function SvgMercurySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

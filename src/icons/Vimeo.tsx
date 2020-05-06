@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVimeo(
+export function SvgVimeo(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

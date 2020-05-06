@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVrCardboardSolid(
+export function SvgVrCardboardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

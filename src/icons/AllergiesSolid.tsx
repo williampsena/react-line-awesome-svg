@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAllergiesSolid(
+export function SvgAllergiesSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

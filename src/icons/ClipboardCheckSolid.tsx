@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgClipboardCheckSolid(
+export function SvgClipboardCheckSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

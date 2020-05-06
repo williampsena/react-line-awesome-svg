@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMarsStrokeVSolid(
+export function SvgMarsStrokeVSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

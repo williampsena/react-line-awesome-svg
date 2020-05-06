@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHamsaSolid(
+export function SvgHamsaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

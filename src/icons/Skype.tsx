@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSkype(
+export function SvgSkype(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

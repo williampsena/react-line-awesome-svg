@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUnlinkSolid(
+export function SvgUnlinkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

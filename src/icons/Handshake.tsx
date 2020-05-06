@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandshake(
+export function SvgHandshake(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

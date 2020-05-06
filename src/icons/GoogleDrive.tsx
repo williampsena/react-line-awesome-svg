@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGoogleDrive(
+export function SvgGoogleDrive(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

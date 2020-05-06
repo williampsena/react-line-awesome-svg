@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEye(
+export function SvgEye(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRainbowSolid(
+export function SvgRainbowSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOdnoklassnikiSquare(
+export function SvgOdnoklassnikiSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

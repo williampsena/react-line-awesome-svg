@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGripLinesVerticalSolid(
+export function SvgGripLinesVerticalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

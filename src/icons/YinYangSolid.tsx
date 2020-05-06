@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYinYangSolid(
+export function SvgYinYangSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

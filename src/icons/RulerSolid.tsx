@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRulerSolid(
+export function SvgRulerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

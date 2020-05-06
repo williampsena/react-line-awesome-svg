@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChromecast(
+export function SvgChromecast(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

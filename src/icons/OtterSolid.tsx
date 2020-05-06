@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOtterSolid(
+export function SvgOtterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

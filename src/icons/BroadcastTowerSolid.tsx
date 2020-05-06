@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBroadcastTowerSolid(
+export function SvgBroadcastTowerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

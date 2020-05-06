@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMusicSolid(
+export function SvgMusicSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

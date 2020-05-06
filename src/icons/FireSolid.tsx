@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFireSolid(
+export function SvgFireSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

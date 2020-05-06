@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPenSolid(
+export function SvgPenSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

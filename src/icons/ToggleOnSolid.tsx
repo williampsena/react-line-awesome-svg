@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgToggleOnSolid(
+export function SvgToggleOnSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

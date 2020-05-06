@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSdCardSolid(
+export function SvgSdCardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

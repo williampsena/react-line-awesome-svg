@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPeopleCarrySolid(
+export function SvgPeopleCarrySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

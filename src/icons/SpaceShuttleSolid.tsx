@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSpaceShuttleSolid(
+export function SvgSpaceShuttleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

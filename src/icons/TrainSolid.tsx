@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrainSolid(
+export function SvgTrainSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

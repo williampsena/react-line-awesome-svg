@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStrava(
+export function SvgStrava(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBurnSolid(
+export function SvgBurnSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

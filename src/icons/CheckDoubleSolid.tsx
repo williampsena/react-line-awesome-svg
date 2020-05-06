@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCheckDoubleSolid(
+export function SvgCheckDoubleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

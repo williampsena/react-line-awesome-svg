@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgElementor(
+export function SvgElementor(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

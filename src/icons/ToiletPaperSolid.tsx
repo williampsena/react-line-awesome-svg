@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgToiletPaperSolid(
+export function SvgToiletPaperSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

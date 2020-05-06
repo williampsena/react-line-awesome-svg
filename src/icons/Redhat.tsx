@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRedhat(
+export function SvgRedhat(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

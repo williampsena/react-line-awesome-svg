@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSkullCrossbonesSolid(
+export function SvgSkullCrossbonesSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

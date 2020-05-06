@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRavelry(
+export function SvgRavelry(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

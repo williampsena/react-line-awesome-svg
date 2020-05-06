@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWeebly(
+export function SvgWeebly(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

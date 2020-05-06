@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHighlighterSolid(
+export function SvgHighlighterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMailchimp(
+export function SvgMailchimp(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFemaleSolid(
+export function SvgFemaleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

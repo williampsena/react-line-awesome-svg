@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHackerNews(
+export function SvgHackerNews(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMizuni(
+export function SvgMizuni(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

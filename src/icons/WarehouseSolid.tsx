@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWarehouseSolid(
+export function SvgWarehouseSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

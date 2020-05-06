@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBanSolid(
+export function SvgBanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

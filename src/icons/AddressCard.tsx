@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAddressCard(
+export function SvgAddressCard(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWpressr(
+export function SvgWpressr(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

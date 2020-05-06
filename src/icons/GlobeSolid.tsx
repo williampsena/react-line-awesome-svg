@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGlobeSolid(
+export function SvgGlobeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

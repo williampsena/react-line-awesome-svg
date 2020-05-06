@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGripHorizontalSolid(
+export function SvgGripHorizontalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

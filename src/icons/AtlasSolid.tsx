@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAtlasSolid(
+export function SvgAtlasSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

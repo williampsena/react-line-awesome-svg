@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBuysellads(
+export function SvgBuysellads(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhoenixSquadron(
+export function SvgPhoenixSquadron(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

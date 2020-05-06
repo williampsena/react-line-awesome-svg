@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPagerSolid(
+export function SvgPagerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMoneyCheckAltSolid(
+export function SvgMoneyCheckAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

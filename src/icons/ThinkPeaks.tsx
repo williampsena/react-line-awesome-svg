@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThinkPeaks(
+export function SvgThinkPeaks(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

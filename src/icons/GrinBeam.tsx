@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinBeam(
+export function SvgGrinBeam(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHotjar(
+export function SvgHotjar(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

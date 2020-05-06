@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDigitalTachographSolid(
+export function SvgDigitalTachographSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

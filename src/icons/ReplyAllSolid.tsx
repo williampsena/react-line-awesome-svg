@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgReplyAllSolid(
+export function SvgReplyAllSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

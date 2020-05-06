@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDumpsterSolid(
+export function SvgDumpsterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

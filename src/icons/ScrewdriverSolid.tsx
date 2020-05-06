@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgScrewdriverSolid(
+export function SvgScrewdriverSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

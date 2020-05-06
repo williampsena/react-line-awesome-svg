@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVolumeDownSolid(
+export function SvgVolumeDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

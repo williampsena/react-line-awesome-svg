@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandLizardSolid(
+export function SvgHandLizardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

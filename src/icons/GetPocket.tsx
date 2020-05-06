@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGetPocket(
+export function SvgGetPocket(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

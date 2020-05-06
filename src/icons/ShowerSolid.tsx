@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShowerSolid(
+export function SvgShowerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

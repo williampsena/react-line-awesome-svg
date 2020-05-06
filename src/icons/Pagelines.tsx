@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPagelines(
+export function SvgPagelines(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

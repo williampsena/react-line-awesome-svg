@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPoundSignSolid(
+export function SvgPoundSignSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

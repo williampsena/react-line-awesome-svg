@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSwatchbookSolid(
+export function SvgSwatchbookSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

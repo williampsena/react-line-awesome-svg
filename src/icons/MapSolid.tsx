@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMapSolid(
+export function SvgMapSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

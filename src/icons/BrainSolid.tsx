@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBrainSolid(
+export function SvgBrainSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

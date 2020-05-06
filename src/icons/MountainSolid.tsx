@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMountainSolid(
+export function SvgMountainSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

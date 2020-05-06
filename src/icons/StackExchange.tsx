@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStackExchange(
+export function SvgStackExchange(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStarHalfSolid(
+export function SvgStarHalfSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

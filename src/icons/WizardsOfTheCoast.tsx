@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWizardsOfTheCoast(
+export function SvgWizardsOfTheCoast(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

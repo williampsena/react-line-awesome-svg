@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLinkedin(
+export function SvgLinkedin(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

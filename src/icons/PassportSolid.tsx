@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPassportSolid(
+export function SvgPassportSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

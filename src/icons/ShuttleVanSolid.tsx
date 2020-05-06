@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShuttleVanSolid(
+export function SvgShuttleVanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

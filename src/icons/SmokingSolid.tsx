@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSmokingSolid(
+export function SvgSmokingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

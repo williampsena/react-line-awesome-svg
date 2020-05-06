@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChessBishopSolid(
+export function SvgChessBishopSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

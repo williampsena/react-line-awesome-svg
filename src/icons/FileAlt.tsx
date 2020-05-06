@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileAlt(
+export function SvgFileAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

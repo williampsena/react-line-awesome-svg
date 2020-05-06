@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBiohazardSolid(
+export function SvgBiohazardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

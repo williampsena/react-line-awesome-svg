@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCartPlusSolid(
+export function SvgCartPlusSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

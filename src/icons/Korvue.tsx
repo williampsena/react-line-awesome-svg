@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKorvue(
+export function SvgKorvue(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

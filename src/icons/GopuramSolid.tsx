@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGopuramSolid(
+export function SvgGopuramSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

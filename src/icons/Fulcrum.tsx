@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFulcrum(
+export function SvgFulcrum(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

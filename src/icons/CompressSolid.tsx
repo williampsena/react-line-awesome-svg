@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCompressSolid(
+export function SvgCompressSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

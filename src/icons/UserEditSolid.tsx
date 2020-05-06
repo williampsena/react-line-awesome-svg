@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserEditSolid(
+export function SvgUserEditSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWifiSolid(
+export function SvgWifiSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

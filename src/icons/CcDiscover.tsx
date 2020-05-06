@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcDiscover(
+export function SvgCcDiscover(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

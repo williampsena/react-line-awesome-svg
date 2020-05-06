@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFanSolid(
+export function SvgFanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

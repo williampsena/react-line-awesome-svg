@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAlgolia(
+export function SvgAlgolia(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

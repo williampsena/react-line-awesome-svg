@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBezierCurveSolid(
+export function SvgBezierCurveSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

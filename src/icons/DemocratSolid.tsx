@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDemocratSolid(
+export function SvgDemocratSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

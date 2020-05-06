@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhabricator(
+export function SvgPhabricator(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

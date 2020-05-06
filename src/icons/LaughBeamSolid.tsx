@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLaughBeamSolid(
+export function SvgLaughBeamSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRobotSolid(
+export function SvgRobotSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

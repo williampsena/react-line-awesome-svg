@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIceCreamSolid(
+export function SvgIceCreamSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

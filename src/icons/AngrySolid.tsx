@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAngrySolid(
+export function SvgAngrySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

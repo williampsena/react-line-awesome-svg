@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJoget(
+export function SvgJoget(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

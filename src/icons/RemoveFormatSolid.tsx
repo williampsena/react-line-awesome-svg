@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRemoveFormatSolid(
+export function SvgRemoveFormatSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

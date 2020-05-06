@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMemorySolid(
+export function SvgMemorySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

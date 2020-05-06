@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgArchwaySolid(
+export function SvgArchwaySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

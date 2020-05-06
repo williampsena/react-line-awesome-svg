@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStackpath(
+export function SvgStackpath(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

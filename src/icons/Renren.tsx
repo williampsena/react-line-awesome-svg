@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRenren(
+export function SvgRenren(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

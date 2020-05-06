@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSortDownSolid(
+export function SvgSortDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

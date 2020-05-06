@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOrcid(
+export function SvgOrcid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

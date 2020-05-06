@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDhl(
+export function SvgDhl(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

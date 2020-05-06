@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlayCircleSolid(
+export function SvgPlayCircleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

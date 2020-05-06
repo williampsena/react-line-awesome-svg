@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFacebookF(
+export function SvgFacebookF(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

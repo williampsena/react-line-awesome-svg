@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMehRollingEyesSolid(
+export function SvgMehRollingEyesSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

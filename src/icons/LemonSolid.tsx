@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLemonSolid(
+export function SvgLemonSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

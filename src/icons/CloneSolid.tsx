@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloneSolid(
+export function SvgCloneSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

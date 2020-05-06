@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAlignCenterSolid(
+export function SvgAlignCenterSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

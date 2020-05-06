@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYarn(
+export function SvgYarn(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

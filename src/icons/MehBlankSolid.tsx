@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMehBlankSolid(
+export function SvgMehBlankSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

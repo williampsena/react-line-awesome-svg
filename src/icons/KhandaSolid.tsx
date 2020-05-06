@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKhandaSolid(
+export function SvgKhandaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

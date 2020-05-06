@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSquarespace(
+export function SvgSquarespace(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCheckSquareSolid(
+export function SvgCheckSquareSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

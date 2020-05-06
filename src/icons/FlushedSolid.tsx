@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFlushedSolid(
+export function SvgFlushedSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

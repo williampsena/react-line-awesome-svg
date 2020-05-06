@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStarHalf(
+export function SvgStarHalf(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

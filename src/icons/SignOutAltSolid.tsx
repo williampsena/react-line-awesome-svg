@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSignOutAltSolid(
+export function SvgSignOutAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

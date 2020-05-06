@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVoteYeaSolid(
+export function SvgVoteYeaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

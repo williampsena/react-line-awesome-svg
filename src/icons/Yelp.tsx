@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYelp(
+export function SvgYelp(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

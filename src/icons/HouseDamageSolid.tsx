@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHouseDamageSolid(
+export function SvgHouseDamageSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

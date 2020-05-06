@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCanadianMapleLeaf(
+export function SvgCanadianMapleLeaf(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

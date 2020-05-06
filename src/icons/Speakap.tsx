@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSpeakap(
+export function SvgSpeakap(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

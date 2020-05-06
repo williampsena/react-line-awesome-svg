@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDochub(
+export function SvgDochub(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

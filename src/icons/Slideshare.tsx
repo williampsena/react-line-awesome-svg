@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSlideshare(
+export function SvgSlideshare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

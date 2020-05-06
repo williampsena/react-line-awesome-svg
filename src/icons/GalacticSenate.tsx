@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGalacticSenate(
+export function SvgGalacticSenate(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

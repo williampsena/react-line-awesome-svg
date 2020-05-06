@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMicrochipSolid(
+export function SvgMicrochipSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

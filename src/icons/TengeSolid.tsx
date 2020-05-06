@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTengeSolid(
+export function SvgTengeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

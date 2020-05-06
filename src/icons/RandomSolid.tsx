@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRandomSolid(
+export function SvgRandomSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

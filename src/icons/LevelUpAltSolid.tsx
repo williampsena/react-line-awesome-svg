@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLevelUpAltSolid(
+export function SvgLevelUpAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

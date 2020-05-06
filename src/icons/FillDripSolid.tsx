@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFillDripSolid(
+export function SvgFillDripSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

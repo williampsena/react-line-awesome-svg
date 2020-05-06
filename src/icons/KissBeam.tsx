@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKissBeam(
+export function SvgKissBeam(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

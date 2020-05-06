@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHouzz(
+export function SvgHouzz(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

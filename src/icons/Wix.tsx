@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWix(
+export function SvgWix(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

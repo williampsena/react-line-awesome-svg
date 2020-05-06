@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCommentDollarSolid(
+export function SvgCommentDollarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

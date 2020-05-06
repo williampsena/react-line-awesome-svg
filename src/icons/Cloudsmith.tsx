@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloudsmith(
+export function SvgCloudsmith(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

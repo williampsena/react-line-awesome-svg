@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAwardSolid(
+export function SvgAwardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

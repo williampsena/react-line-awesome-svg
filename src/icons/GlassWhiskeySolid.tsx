@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGlassWhiskeySolid(
+export function SvgGlassWhiskeySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

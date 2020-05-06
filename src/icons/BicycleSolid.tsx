@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBicycleSolid(
+export function SvgBicycleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

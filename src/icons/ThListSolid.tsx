@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThListSolid(
+export function SvgThListSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

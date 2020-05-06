@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAviato(
+export function SvgAviato(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

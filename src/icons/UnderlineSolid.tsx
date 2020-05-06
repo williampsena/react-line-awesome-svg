@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUnderlineSolid(
+export function SvgUnderlineSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

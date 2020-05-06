@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinBeamSweatSolid(
+export function SvgGrinBeamSweatSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

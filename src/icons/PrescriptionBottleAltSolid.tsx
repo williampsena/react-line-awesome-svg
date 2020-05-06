@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPrescriptionBottleAltSolid(
+export function SvgPrescriptionBottleAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

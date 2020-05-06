@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWrenchSolid(
+export function SvgWrenchSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

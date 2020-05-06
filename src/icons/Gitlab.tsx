@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGitlab(
+export function SvgGitlab(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

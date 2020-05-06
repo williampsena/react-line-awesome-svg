@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLessThanEqualSolid(
+export function SvgLessThanEqualSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

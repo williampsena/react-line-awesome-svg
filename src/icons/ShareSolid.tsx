@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShareSolid(
+export function SvgShareSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

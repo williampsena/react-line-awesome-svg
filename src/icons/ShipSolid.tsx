@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShipSolid(
+export function SvgShipSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

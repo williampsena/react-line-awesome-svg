@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBorderNoneSolid(
+export function SvgBorderNoneSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

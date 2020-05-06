@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTwitter(
+export function SvgTwitter(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

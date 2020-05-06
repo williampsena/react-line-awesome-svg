@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChevronCircleUpSolid(
+export function SvgChevronCircleUpSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

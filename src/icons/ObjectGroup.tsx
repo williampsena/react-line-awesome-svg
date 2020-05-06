@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgObjectGroup(
+export function SvgObjectGroup(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

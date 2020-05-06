@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLandmarkSolid(
+export function SvgLandmarkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

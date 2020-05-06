@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCaretRightSolid(
+export function SvgCaretRightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

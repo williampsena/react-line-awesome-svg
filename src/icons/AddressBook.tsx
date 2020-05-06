@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAddressBook(
+export function SvgAddressBook(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEthernetSolid(
+export function SvgEthernetSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

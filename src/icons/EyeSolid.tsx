@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEyeSolid(
+export function SvgEyeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

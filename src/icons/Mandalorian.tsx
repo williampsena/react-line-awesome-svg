@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMandalorian(
+export function SvgMandalorian(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

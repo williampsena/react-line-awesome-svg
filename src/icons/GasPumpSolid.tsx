@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGasPumpSolid(
+export function SvgGasPumpSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMegaport(
+export function SvgMegaport(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

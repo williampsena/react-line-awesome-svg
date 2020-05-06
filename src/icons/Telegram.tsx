@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTelegram(
+export function SvgTelegram(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

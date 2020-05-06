@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYenSignSolid(
+export function SvgYenSignSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

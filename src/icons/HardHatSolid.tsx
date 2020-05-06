@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHardHatSolid(
+export function SvgHardHatSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

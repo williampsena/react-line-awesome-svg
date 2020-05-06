@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHtml5(
+export function SvgHtml5(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

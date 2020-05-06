@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloudRainSolid(
+export function SvgCloudRainSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

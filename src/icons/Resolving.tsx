@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgResolving(
+export function SvgResolving(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

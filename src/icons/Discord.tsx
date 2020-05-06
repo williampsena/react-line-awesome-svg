@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDiscord(
+export function SvgDiscord(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

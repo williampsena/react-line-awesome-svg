@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYoutube(
+export function SvgYoutube(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

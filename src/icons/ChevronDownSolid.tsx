@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChevronDownSolid(
+export function SvgChevronDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBlenderPhoneSolid(
+export function SvgBlenderPhoneSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

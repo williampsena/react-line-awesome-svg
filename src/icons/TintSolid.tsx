@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTintSolid(
+export function SvgTintSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

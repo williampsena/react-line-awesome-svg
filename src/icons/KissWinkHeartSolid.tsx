@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKissWinkHeartSolid(
+export function SvgKissWinkHeartSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

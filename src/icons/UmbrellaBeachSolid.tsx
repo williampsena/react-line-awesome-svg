@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUmbrellaBeachSolid(
+export function SvgUmbrellaBeachSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

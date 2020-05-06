@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThermometerEmptySolid(
+export function SvgThermometerEmptySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

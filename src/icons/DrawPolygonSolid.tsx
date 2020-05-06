@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDrawPolygonSolid(
+export function SvgDrawPolygonSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

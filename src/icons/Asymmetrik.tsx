@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAsymmetrik(
+export function SvgAsymmetrik(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

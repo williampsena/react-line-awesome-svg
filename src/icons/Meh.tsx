@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMeh(
+export function SvgMeh(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

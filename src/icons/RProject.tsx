@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRProject(
+export function SvgRProject(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSubscriptSolid(
+export function SvgSubscriptSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

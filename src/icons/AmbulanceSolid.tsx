@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAmbulanceSolid(
+export function SvgAmbulanceSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

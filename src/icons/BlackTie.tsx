@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBlackTie(
+export function SvgBlackTie(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDashcube(
+export function SvgDashcube(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTextWidthSolid(
+export function SvgTextWidthSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

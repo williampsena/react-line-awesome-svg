@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLiraSignSolid(
+export function SvgLiraSignSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSteamSymbol(
+export function SvgSteamSymbol(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

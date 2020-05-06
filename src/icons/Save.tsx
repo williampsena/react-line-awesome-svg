@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSave(
+export function SvgSave(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

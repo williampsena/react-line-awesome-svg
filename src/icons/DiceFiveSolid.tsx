@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDiceFiveSolid(
+export function SvgDiceFiveSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLifeRing(
+export function SvgLifeRing(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgXingSquare(
+export function SvgXingSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

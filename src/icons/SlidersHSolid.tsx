@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSlidersHSolid(
+export function SvgSlidersHSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

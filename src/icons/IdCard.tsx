@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIdCard(
+export function SvgIdCard(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

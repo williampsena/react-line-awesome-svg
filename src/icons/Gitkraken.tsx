@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGitkraken(
+export function SvgGitkraken(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

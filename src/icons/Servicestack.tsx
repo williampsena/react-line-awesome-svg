@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgServicestack(
+export function SvgServicestack(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

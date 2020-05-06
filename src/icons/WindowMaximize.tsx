@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindowMaximize(
+export function SvgWindowMaximize(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgApple(
+export function SvgApple(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

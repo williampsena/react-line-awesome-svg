@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgInvision(
+export function SvgInvision(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

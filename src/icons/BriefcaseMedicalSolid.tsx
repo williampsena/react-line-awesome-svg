@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBriefcaseMedicalSolid(
+export function SvgBriefcaseMedicalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

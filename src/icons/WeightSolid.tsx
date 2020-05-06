@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWeightSolid(
+export function SvgWeightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

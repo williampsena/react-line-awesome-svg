@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserFriendsSolid(
+export function SvgUserFriendsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

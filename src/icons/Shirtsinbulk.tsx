@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShirtsinbulk(
+export function SvgShirtsinbulk(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

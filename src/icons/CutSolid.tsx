@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCutSolid(
+export function SvgCutSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

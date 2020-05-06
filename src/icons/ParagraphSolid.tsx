@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgParagraphSolid(
+export function SvgParagraphSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

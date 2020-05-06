@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgForumbee(
+export function SvgForumbee(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

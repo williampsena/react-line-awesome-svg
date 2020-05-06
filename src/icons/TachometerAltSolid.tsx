@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTachometerAltSolid(
+export function SvgTachometerAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

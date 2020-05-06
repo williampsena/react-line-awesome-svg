@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserShieldSolid(
+export function SvgUserShieldSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEggSolid(
+export function SvgEggSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

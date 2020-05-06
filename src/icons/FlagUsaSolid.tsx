@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFlagUsaSolid(
+export function SvgFlagUsaSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

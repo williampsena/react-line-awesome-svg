@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSuperpowers(
+export function SvgSuperpowers(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

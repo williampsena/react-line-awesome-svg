@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFunnelDollarSolid(
+export function SvgFunnelDollarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

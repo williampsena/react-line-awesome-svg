@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDeviantart(
+export function SvgDeviantart(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

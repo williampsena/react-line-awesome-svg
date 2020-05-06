@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrello(
+export function SvgTrello(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

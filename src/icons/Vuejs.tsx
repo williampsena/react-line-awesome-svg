@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVuejs(
+export function SvgVuejs(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

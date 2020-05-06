@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSmogSolid(
+export function SvgSmogSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

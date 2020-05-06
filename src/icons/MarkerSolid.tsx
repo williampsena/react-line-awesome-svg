@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMarkerSolid(
+export function SvgMarkerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

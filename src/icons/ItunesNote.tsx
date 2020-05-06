@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgItunesNote(
+export function SvgItunesNote(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

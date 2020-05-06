@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAccusoft(
+export function SvgAccusoft(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

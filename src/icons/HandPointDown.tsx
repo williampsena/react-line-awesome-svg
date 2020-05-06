@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandPointDown(
+export function SvgHandPointDown(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTiredSolid(
+export function SvgTiredSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

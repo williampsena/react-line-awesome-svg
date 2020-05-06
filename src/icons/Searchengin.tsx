@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSearchengin(
+export function SvgSearchengin(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

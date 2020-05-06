@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgExchangeAltSolid(
+export function SvgExchangeAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

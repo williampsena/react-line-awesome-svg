@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgClosedCaptioningSolid(
+export function SvgClosedCaptioningSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

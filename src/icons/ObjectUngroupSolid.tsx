@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgObjectUngroupSolid(
+export function SvgObjectUngroupSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

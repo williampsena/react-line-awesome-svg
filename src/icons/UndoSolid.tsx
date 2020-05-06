@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUndoSolid(
+export function SvgUndoSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

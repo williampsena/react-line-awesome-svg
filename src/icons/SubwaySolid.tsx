@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSubwaySolid(
+export function SvgSubwaySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

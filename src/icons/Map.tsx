@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMap(
+export function SvgMap(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

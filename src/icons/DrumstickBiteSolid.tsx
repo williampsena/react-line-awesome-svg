@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDrumstickBiteSolid(
+export function SvgDrumstickBiteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

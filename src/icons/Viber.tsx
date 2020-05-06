@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgViber(
+export function SvgViber(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

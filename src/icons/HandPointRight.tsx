@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandPointRight(
+export function SvgHandPointRight(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFeatherAltSolid(
+export function SvgFeatherAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

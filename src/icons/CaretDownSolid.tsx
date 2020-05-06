@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCaretDownSolid(
+export function SvgCaretDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

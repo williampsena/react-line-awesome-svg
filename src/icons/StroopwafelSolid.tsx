@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStroopwafelSolid(
+export function SvgStroopwafelSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

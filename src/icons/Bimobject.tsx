@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBimobject(
+export function SvgBimobject(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

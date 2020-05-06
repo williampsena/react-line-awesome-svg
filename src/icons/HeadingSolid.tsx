@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHeadingSolid(
+export function SvgHeadingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

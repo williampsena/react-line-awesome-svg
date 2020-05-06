@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHamburgerSolid(
+export function SvgHamburgerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

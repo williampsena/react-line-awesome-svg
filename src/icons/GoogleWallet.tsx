@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGoogleWallet(
+export function SvgGoogleWallet(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

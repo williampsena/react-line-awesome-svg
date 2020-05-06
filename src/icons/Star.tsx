@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStar(
+export function SvgStar(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

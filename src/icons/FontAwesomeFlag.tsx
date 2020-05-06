@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFontAwesomeFlag(
+export function SvgFontAwesomeFlag(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

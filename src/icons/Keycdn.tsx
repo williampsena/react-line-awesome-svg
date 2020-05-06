@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKeycdn(
+export function SvgKeycdn(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

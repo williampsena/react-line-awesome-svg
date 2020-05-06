@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPeriscope(
+export function SvgPeriscope(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

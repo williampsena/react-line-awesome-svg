@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThumbsDown(
+export function SvgThumbsDown(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

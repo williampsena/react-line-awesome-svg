@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDigg(
+export function SvgDigg(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStackOverflow(
+export function SvgStackOverflow(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

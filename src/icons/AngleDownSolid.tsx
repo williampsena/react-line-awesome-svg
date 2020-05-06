@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAngleDownSolid(
+export function SvgAngleDownSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

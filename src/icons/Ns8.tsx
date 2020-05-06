@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNs8(
+export function SvgNs8(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcJcb(
+export function SvgCcJcb(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

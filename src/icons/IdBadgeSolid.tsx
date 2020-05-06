@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIdBadgeSolid(
+export function SvgIdBadgeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

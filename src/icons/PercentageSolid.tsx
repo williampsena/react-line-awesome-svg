@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPercentageSolid(
+export function SvgPercentageSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

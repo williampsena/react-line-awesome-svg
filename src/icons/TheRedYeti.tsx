@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTheRedYeti(
+export function SvgTheRedYeti(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBabyCarriageSolid(
+export function SvgBabyCarriageSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

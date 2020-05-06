@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDelicious(
+export function SvgDelicious(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

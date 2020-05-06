@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHotelSolid(
+export function SvgHotelSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

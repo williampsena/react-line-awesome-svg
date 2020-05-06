@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBorderAllSolid(
+export function SvgBorderAllSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

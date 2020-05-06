@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBloggerB(
+export function SvgBloggerB(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

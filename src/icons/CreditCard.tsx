@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCreditCard(
+export function SvgCreditCard(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

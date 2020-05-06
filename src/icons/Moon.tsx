@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMoon(
+export function SvgMoon(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

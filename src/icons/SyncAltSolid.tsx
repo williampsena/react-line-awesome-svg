@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSyncAltSolid(
+export function SvgSyncAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

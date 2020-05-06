@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAcquisitionsIncorporated(
+export function SvgAcquisitionsIncorporated(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

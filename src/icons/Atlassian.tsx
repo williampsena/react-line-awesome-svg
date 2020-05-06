@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAtlassian(
+export function SvgAtlassian(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

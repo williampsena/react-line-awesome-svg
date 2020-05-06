@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSplotchSolid(
+export function SvgSplotchSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

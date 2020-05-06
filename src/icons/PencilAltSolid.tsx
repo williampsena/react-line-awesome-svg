@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPencilAltSolid(
+export function SvgPencilAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

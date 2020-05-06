@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGrinTongueWinkSolid(
+export function SvgGrinTongueWinkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTasksSolid(
+export function SvgTasksSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

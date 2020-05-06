@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgReddit(
+export function SvgReddit(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgResearchgate(
+export function SvgResearchgate(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

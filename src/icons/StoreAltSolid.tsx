@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStoreAltSolid(
+export function SvgStoreAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

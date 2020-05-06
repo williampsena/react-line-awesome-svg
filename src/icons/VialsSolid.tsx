@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVialsSolid(
+export function SvgVialsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

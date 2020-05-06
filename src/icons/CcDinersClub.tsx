@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcDinersClub(
+export function SvgCcDinersClub(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

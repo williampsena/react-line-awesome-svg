@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDollarSignSolid(
+export function SvgDollarSignSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

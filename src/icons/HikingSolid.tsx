@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHikingSolid(
+export function SvgHikingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

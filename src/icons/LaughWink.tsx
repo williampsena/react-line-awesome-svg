@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLaughWink(
+export function SvgLaughWink(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

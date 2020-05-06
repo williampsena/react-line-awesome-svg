@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKeybase(
+export function SvgKeybase(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

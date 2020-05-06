@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJediSolid(
+export function SvgJediSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

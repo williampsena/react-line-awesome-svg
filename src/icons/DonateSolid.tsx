@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDonateSolid(
+export function SvgDonateSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBlackberry(
+export function SvgBlackberry(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKaggle(
+export function SvgKaggle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

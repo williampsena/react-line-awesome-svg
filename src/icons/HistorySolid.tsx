@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHistorySolid(
+export function SvgHistorySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

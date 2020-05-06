@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSnapchat(
+export function SvgSnapchat(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

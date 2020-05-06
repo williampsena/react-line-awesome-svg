@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgReadme(
+export function SvgReadme(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

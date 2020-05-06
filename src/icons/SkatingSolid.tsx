@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSkatingSolid(
+export function SvgSkatingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

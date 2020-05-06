@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSpellCheckSolid(
+export function SvgSpellCheckSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

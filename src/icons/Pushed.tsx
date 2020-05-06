@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPushed(
+export function SvgPushed(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

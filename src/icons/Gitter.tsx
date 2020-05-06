@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGitter(
+export function SvgGitter(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

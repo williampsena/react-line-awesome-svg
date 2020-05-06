@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGit(
+export function SvgGit(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

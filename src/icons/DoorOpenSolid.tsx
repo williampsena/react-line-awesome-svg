@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDoorOpenSolid(
+export function SvgDoorOpenSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgArrowUpSolid(
+export function SvgArrowUpSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

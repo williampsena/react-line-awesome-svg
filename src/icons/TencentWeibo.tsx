@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTencentWeibo(
+export function SvgTencentWeibo(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

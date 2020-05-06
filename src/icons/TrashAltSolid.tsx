@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrashAltSolid(
+export function SvgTrashAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

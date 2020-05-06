@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHips(
+export function SvgHips(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgScribd(
+export function SvgScribd(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

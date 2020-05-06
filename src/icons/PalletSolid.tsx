@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPalletSolid(
+export function SvgPalletSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

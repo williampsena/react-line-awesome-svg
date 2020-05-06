@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQuora(
+export function SvgQuora(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

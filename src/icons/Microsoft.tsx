@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMicrosoft(
+export function SvgMicrosoft(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCropAltSolid(
+export function SvgCropAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

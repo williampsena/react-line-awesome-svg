@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDyalog(
+export function SvgDyalog(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

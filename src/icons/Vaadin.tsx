@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVaadin(
+export function SvgVaadin(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

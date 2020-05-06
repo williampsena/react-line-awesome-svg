@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUber(
+export function SvgUber(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgScrollSolid(
+export function SvgScrollSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

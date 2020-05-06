@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUmbraco(
+export function SvgUmbraco(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgConfluence(
+export function SvgConfluence(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

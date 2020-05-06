@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlugSolid(
+export function SvgPlugSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

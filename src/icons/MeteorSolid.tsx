@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMeteorSolid(
+export function SvgMeteorSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFontAwesomeAlt(
+export function SvgFontAwesomeAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

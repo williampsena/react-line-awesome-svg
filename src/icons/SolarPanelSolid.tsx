@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSolarPanelSolid(
+export function SvgSolarPanelSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

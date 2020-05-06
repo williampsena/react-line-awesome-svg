@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPiggyBankSolid(
+export function SvgPiggyBankSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

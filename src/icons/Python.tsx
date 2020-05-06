@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPython(
+export function SvgPython(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

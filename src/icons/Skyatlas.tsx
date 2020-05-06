@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSkyatlas(
+export function SvgSkyatlas(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

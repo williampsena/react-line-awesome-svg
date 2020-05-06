@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgListAlt(
+export function SvgListAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMarkdown(
+export function SvgMarkdown(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

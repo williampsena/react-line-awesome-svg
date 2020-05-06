@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFolderMinusSolid(
+export function SvgFolderMinusSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

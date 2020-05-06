@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLockSolid(
+export function SvgLockSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDrumSteelpanSolid(
+export function SvgDrumSteelpanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

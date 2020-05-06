@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCompactDiscSolid(
+export function SvgCompactDiscSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

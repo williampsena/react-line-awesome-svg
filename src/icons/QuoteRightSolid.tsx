@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQuoteRightSolid(
+export function SvgQuoteRightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

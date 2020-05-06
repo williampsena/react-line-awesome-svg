@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandPeace(
+export function SvgHandPeace(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

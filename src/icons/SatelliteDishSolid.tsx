@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSatelliteDishSolid(
+export function SvgSatelliteDishSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

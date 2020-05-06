@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCandyCaneSolid(
+export function SvgCandyCaneSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSupple(
+export function SvgSupple(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

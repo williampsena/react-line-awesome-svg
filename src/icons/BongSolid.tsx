@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBongSolid(
+export function SvgBongSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

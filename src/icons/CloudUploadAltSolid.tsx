@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloudUploadAltSolid(
+export function SvgCloudUploadAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYoast(
+export function SvgYoast(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

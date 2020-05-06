@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCrosshairsSolid(
+export function SvgCrosshairsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMediumM(
+export function SvgMediumM(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

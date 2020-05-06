@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIglooSolid(
+export function SvgIglooSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

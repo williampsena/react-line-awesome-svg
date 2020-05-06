@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCalendarTimes(
+export function SvgCalendarTimes(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

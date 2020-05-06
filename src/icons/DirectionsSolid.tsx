@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDirectionsSolid(
+export function SvgDirectionsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSuitcaseRollingSolid(
+export function SvgSuitcaseRollingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

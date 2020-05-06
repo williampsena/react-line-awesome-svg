@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindows(
+export function SvgWindows(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBugSolid(
+export function SvgBugSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

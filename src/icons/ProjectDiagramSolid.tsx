@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgProjectDiagramSolid(
+export function SvgProjectDiagramSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSpiderSolid(
+export function SvgSpiderSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBattleNet(
+export function SvgBattleNet(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

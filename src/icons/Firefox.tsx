@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFirefox(
+export function SvgFirefox(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

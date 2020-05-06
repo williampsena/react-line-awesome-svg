@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSimplybuilt(
+export function SvgSimplybuilt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMapPinSolid(
+export function SvgMapPinSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

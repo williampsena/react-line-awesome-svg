@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDungeonSolid(
+export function SvgDungeonSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

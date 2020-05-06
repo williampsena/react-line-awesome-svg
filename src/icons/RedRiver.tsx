@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRedRiver(
+export function SvgRedRiver(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

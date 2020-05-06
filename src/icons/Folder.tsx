@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFolder(
+export function SvgFolder(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

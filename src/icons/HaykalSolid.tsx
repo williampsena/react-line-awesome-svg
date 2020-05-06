@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHaykalSolid(
+export function SvgHaykalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChessBoardSolid(
+export function SvgChessBoardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

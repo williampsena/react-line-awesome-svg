@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStumbleupon(
+export function SvgStumbleupon(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

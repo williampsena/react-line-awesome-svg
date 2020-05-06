@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFaxSolid(
+export function SvgFaxSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

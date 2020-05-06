@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCubeSolid(
+export function SvgCubeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPasteSolid(
+export function SvgPasteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

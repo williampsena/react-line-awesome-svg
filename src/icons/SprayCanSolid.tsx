@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSprayCanSolid(
+export function SvgSprayCanSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

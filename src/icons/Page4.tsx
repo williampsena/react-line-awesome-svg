@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPage4(
+export function SvgPage4(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

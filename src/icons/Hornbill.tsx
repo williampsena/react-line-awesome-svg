@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHornbill(
+export function SvgHornbill(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

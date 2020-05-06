@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileWord(
+export function SvgFileWord(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

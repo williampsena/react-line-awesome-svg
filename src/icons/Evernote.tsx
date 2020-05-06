@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEvernote(
+export function SvgEvernote(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

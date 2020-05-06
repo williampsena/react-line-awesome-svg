@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGooglePlus(
+export function SvgGooglePlus(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

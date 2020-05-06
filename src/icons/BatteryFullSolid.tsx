@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBatteryFullSolid(
+export function SvgBatteryFullSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgComments(
+export function SvgComments(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

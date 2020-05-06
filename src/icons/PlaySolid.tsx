@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlaySolid(
+export function SvgPlaySolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

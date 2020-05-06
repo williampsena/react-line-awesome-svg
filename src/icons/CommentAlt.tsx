@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCommentAlt(
+export function SvgCommentAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

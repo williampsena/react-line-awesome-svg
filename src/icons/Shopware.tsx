@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShopware(
+export function SvgShopware(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

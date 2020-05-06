@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileCode(
+export function SvgFileCode(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

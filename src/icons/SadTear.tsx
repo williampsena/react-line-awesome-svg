@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSadTear(
+export function SvgSadTear(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

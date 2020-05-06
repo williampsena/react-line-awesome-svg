@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLightbulb(
+export function SvgLightbulb(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

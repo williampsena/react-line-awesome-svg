@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDeafSolid(
+export function SvgDeafSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

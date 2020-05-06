@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLyft(
+export function SvgLyft(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

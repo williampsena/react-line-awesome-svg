@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFlipboard(
+export function SvgFlipboard(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

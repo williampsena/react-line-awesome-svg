@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPollHSolid(
+export function SvgPollHSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

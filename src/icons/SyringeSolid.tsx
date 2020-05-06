@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSyringeSolid(
+export function SvgSyringeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

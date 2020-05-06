@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHammerSolid(
+export function SvgHammerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

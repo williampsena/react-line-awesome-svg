@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNewspaperSolid(
+export function SvgNewspaperSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

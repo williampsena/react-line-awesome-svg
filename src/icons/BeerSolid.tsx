@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBeerSolid(
+export function SvgBeerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUserGraduateSolid(
+export function SvgUserGraduateSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

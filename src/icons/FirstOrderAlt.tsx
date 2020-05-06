@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFirstOrderAlt(
+export function SvgFirstOrderAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

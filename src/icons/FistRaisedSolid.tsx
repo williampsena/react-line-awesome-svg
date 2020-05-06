@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFistRaisedSolid(
+export function SvgFistRaisedSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

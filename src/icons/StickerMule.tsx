@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStickerMule(
+export function SvgStickerMule(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

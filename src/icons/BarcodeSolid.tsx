@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBarcodeSolid(
+export function SvgBarcodeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

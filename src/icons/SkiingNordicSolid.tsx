@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSkiingNordicSolid(
+export function SvgSkiingNordicSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

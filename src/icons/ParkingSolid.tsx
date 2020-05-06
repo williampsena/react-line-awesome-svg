@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgParkingSolid(
+export function SvgParkingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

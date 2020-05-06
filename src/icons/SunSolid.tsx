@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSunSolid(
+export function SvgSunSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

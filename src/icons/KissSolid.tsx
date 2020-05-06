@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgKissSolid(
+export function SvgKissSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPrintSolid(
+export function SvgPrintSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

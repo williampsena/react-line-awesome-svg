@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgJournalWhillsSolid(
+export function SvgJournalWhillsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFonticonsFi(
+export function SvgFonticonsFi(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

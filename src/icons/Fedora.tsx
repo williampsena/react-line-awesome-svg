@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFedora(
+export function SvgFedora(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

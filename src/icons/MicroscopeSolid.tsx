@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMicroscopeSolid(
+export function SvgMicroscopeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

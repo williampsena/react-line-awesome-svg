@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHourglassStartSolid(
+export function SvgHourglassStartSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBuyNLarge(
+export function SvgBuyNLarge(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

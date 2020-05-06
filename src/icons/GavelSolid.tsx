@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGavelSolid(
+export function SvgGavelSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

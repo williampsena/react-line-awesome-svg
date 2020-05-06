@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAirbnb(
+export function SvgAirbnb(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

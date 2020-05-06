@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLaughSquintSolid(
+export function SvgLaughSquintSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOpencart(
+export function SvgOpencart(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

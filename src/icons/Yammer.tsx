@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYammer(
+export function SvgYammer(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

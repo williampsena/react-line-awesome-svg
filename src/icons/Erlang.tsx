@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgErlang(
+export function SvgErlang(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

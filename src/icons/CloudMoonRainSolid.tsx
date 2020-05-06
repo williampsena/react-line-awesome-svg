@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCloudMoonRainSolid(
+export function SvgCloudMoonRainSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

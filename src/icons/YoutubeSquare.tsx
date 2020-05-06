@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgYoutubeSquare(
+export function SvgYoutubeSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

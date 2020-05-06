@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBuffer(
+export function SvgBuffer(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

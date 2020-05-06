@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSignalSolid(
+export function SvgSignalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

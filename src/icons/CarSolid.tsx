@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCarSolid(
+export function SvgCarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHeadphonesSolid(
+export function SvgHeadphonesSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

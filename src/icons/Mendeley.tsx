@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMendeley(
+export function SvgMendeley(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

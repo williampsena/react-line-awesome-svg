@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMedapps(
+export function SvgMedapps(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

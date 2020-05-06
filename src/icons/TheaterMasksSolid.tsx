@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTheaterMasksSolid(
+export function SvgTheaterMasksSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

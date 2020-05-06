@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBarsSolid(
+export function SvgBarsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

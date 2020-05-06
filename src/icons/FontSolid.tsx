@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFontSolid(
+export function SvgFontSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

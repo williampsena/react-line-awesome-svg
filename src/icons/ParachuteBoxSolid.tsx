@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgParachuteBoxSolid(
+export function SvgParachuteBoxSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

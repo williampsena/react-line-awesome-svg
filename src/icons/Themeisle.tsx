@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThemeisle(
+export function SvgThemeisle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

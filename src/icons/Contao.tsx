@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgContao(
+export function SvgContao(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

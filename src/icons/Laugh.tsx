@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLaugh(
+export function SvgLaugh(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

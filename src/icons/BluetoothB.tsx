@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBluetoothB(
+export function SvgBluetoothB(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSpeakerDeck(
+export function SvgSpeakerDeck(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgInternetExplorer(
+export function SvgInternetExplorer(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

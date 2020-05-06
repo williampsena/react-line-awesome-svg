@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPiedPiper(
+export function SvgPiedPiper(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

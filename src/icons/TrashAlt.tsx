@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrashAlt(
+export function SvgTrashAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

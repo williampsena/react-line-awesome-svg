@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNeos(
+export function SvgNeos(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

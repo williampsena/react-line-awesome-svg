@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTumblrSquare(
+export function SvgTumblrSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

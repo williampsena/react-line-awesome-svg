@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGitAlt(
+export function SvgGitAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPepperHotSolid(
+export function SvgPepperHotSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

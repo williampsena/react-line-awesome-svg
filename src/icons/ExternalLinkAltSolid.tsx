@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgExternalLinkAltSolid(
+export function SvgExternalLinkAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPatreon(
+export function SvgPatreon(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

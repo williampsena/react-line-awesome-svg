@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGripfire(
+export function SvgGripfire(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

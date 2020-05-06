@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAngellist(
+export function SvgAngellist(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

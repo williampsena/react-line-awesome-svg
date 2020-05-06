@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCaretSquareUp(
+export function SvgCaretSquareUp(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcAmex(
+export function SvgCcAmex(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

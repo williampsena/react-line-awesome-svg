@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIndentSolid(
+export function SvgIndentSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

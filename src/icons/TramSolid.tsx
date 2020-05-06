@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTramSolid(
+export function SvgTramSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

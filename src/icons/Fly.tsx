@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFly(
+export function SvgFly(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

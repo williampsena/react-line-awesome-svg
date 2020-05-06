@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStepForwardSolid(
+export function SvgStepForwardSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

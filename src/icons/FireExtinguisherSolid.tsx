@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFireExtinguisherSolid(
+export function SvgFireExtinguisherSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

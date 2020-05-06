@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCogSolid(
+export function SvgCogSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

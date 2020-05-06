@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHireAHelper(
+export function SvgHireAHelper(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

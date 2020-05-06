@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMicrophoneSlashSolid(
+export function SvgMicrophoneSlashSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

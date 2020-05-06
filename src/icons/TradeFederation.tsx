@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTradeFederation(
+export function SvgTradeFederation(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

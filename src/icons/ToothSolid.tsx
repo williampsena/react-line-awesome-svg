@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgToothSolid(
+export function SvgToothSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

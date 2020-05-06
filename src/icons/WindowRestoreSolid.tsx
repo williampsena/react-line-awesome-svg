@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindowRestoreSolid(
+export function SvgWindowRestoreSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTeamspeak(
+export function SvgTeamspeak(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

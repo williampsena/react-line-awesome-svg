@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgChartBarSolid(
+export function SvgChartBarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

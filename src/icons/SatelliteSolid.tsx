@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSatelliteSolid(
+export function SvgSatelliteSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

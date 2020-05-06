@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMedrt(
+export function SvgMedrt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

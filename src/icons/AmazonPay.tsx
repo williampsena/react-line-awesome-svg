@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAmazonPay(
+export function SvgAmazonPay(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

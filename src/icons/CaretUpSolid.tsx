@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCaretUpSolid(
+export function SvgCaretUpSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

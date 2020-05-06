@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCentercode(
+export function SvgCentercode(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

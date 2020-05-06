@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgIoxhost(
+export function SvgIoxhost(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

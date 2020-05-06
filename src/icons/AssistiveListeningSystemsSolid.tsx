@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAssistiveListeningSystemsSolid(
+export function SvgAssistiveListeningSystemsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStopCircle(
+export function SvgStopCircle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

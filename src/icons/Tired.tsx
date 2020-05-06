@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTired(
+export function SvgTired(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

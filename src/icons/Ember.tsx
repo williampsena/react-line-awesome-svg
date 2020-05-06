@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEmber(
+export function SvgEmber(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgICursorSolid(
+export function SvgICursorSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

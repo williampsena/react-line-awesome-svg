@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileInvoiceDollarSolid(
+export function SvgFileInvoiceDollarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

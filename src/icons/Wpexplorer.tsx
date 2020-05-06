@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWpexplorer(
+export function SvgWpexplorer(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

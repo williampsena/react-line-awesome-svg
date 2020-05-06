@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFutbol(
+export function SvgFutbol(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

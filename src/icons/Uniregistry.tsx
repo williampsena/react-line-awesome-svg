@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUniregistry(
+export function SvgUniregistry(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

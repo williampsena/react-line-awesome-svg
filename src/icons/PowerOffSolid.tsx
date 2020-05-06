@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPowerOffSolid(
+export function SvgPowerOffSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

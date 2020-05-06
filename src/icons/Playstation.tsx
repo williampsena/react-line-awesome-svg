@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPlaystation(
+export function SvgPlaystation(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

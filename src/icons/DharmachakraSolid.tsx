@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDharmachakraSolid(
+export function SvgDharmachakraSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

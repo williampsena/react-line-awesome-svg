@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrademarkSolid(
+export function SvgTrademarkSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

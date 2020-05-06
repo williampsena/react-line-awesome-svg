@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSwimmingPoolSolid(
+export function SvgSwimmingPoolSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

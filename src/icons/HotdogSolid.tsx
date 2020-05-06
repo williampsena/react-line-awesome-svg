@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHotdogSolid(
+export function SvgHotdogSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

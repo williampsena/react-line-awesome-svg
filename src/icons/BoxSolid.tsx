@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBoxSolid(
+export function SvgBoxSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBinocularsSolid(
+export function SvgBinocularsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

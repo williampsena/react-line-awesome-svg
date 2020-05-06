@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDizzy(
+export function SvgDizzy(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

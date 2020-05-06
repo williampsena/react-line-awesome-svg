@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGoodreads(
+export function SvgGoodreads(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

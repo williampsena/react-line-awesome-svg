@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFingerprintSolid(
+export function SvgFingerprintSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

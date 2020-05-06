@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDigitalOcean(
+export function SvgDigitalOcean(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

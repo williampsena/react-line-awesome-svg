@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGlideG(
+export function SvgGlideG(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

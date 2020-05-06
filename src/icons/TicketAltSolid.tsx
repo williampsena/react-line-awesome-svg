@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTicketAltSolid(
+export function SvgTicketAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMinusCircleSolid(
+export function SvgMinusCircleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

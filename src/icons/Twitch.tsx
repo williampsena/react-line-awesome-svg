@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTwitch(
+export function SvgTwitch(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPillsSolid(
+export function SvgPillsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPinterestP(
+export function SvgPinterestP(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

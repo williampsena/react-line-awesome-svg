@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgArtstation(
+export function SvgArtstation(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

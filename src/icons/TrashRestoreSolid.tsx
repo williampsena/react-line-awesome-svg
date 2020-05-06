@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTrashRestoreSolid(
+export function SvgTrashRestoreSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

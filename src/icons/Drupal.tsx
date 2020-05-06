@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDrupal(
+export function SvgDrupal(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

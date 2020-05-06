@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCameraSolid(
+export function SvgCameraSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

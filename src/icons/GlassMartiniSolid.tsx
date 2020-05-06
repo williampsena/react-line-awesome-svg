@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGlassMartiniSolid(
+export function SvgGlassMartiniSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

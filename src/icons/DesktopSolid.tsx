@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDesktopSolid(
+export function SvgDesktopSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

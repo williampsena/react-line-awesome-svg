@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRockrms(
+export function SvgRockrms(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

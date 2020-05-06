@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMagnetSolid(
+export function SvgMagnetSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

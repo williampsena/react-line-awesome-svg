@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgUser(
+export function SvgUser(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

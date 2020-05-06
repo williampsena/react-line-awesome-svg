@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWindSolid(
+export function SvgWindSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMedalSolid(
+export function SvgMedalSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

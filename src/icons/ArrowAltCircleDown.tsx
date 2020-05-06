@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgArrowAltCircleDown(
+export function SvgArrowAltCircleDown(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

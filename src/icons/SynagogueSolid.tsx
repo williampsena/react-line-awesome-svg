@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSynagogueSolid(
+export function SvgSynagogueSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

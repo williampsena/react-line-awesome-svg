@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGithubAlt(
+export function SvgGithubAlt(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

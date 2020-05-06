@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgShoePrintsSolid(
+export function SvgShoePrintsSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

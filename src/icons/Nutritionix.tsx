@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgNutritionix(
+export function SvgNutritionix(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

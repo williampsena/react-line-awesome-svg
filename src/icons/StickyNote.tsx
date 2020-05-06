@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStickyNote(
+export function SvgStickyNote(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

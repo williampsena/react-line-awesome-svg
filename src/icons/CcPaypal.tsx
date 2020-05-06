@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcPaypal(
+export function SvgCcPaypal(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

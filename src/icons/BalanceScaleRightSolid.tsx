@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBalanceScaleRightSolid(
+export function SvgBalanceScaleRightSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

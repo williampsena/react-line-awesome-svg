@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAdjustSolid(
+export function SvgAdjustSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

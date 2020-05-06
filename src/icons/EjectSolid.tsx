@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEjectSolid(
+export function SvgEjectSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

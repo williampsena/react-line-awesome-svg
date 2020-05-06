@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAirFreshenerSolid(
+export function SvgAirFreshenerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

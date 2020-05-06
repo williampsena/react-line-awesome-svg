@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHeartBrokenSolid(
+export function SvgHeartBrokenSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

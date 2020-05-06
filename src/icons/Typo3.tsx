@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTypo3(
+export function SvgTypo3(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgTabletAltSolid(
+export function SvgTabletAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

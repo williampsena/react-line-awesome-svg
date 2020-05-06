@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhp(
+export function SvgPhp(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

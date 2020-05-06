@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFileExcelSolid(
+export function SvgFileExcelSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

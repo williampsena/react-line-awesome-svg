@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgOpenid(
+export function SvgOpenid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

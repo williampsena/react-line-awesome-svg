@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSuperscriptSolid(
+export function SvgSuperscriptSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

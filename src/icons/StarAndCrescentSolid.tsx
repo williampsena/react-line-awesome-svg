@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgStarAndCrescentSolid(
+export function SvgStarAndCrescentSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

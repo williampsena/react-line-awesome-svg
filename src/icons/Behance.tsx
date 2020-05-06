@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBehance(
+export function SvgBehance(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

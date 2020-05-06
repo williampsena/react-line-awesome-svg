@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgHandshakeSolid(
+export function SvgHandshakeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

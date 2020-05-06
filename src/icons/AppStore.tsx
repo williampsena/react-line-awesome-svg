@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAppStore(
+export function SvgAppStore(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

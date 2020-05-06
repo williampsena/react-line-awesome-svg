@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgEnvelopeOpenSolid(
+export function SvgEnvelopeOpenSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

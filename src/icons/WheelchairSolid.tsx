@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWheelchairSolid(
+export function SvgWheelchairSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCriticalRole(
+export function SvgCriticalRole(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

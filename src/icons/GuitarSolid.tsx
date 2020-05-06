@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgGuitarSolid(
+export function SvgGuitarSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSadCry(
+export function SvgSadCry(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgThumbtackSolid(
+export function SvgThumbtackSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

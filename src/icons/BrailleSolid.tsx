@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBrailleSolid(
+export function SvgBrailleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

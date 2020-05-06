@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCreativeCommons(
+export function SvgCreativeCommons(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMapMarkerSolid(
+export function SvgMapMarkerSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

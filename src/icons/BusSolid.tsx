@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgBusSolid(
+export function SvgBusSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

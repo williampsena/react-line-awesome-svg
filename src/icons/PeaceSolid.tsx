@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPeaceSolid(
+export function SvgPeaceSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgMarsDoubleSolid(
+export function SvgMarsDoubleSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

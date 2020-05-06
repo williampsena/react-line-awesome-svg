@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgLinode(
+export function SvgLinode(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

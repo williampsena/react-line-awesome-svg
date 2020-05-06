@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgVimeoSquare(
+export function SvgVimeoSquare(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

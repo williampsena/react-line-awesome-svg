@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCannabisSolid(
+export function SvgCannabisSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

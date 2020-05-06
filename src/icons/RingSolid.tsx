@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRingSolid(
+export function SvgRingSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAvianex(
+export function SvgAvianex(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

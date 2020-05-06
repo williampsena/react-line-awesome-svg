@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQuidditchSolid(
+export function SvgQuidditchSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

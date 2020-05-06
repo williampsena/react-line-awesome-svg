@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgRadiationAltSolid(
+export function SvgRadiationAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

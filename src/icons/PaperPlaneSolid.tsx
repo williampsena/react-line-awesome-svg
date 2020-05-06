@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPaperPlaneSolid(
+export function SvgPaperPlaneSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

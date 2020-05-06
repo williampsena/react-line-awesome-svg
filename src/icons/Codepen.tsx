@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCodepen(
+export function SvgCodepen(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

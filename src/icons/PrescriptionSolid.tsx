@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPrescriptionSolid(
+export function SvgPrescriptionSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

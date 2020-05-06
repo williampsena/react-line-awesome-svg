@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCodiepie(
+export function SvgCodiepie(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

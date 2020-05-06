@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSafari(
+export function SvgSafari(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

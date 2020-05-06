@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgXbox(
+export function SvgXbox(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSchlix(
+export function SvgSchlix(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

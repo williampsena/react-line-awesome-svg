@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgImdb(
+export function SvgImdb(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

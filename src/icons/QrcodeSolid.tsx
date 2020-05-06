@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgQrcodeSolid(
+export function SvgQrcodeSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

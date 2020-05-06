@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhotoVideoSolid(
+export function SvgPhotoVideoSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

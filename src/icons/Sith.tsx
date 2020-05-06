@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgSith(
+export function SvgSith(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

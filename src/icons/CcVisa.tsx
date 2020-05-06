@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgCcVisa(
+export function SvgCcVisa(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

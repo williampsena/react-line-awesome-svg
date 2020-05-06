@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgAdversal(
+export function SvgAdversal(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

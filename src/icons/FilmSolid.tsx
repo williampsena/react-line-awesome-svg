@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgFilmSolid(
+export function SvgFilmSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

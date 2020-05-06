@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgWaze(
+export function SvgWaze(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgDotCircle(
+export function SvgDotCircle(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (

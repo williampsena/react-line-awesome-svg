@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-function SvgPhoneSquareAltSolid(
+export function SvgPhoneSquareAltSolid(
     props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>
 ) {
     return (
