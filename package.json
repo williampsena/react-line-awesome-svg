@@ -1,6 +1,6 @@
 {
   "name": "react-line-awesome-svg",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Use line-awesome as react svg component",
   "main": "index.js",
   "prettier": {
