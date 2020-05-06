@@ -1,3 +1,3 @@
 import * as React from 'react';
-declare function SvgMobileAltSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
+export declare function SvgMobileAltSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgMobileAltSolid;

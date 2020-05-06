@@ -1,5 +1,5 @@
 import * as React from 'react';
-function SvgLongArrowAltDownSolid(props) {
+export function SvgLongArrowAltDownSolid(props) {
     return (React.createElement("svg", Object.assign({ viewBox: "0 0 32 32", width: "1em", height: "1em" }, props),
         React.createElement("path", { d: "M15 4v20.063l-4.281-4.282-1.438 1.407L16 27.905l6.719-6.718-1.438-1.407L17 24.063V4z" })));
 }

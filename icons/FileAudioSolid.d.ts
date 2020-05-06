@@ -1,3 +1,3 @@
 import * as React from 'react';
-declare function SvgFileAudioSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
+export declare function SvgFileAudioSolid(props: JSX.IntrinsicAttributes & React.SVGProps<SVGSVGElement>): JSX.Element;
 export default SvgFileAudioSolid;
